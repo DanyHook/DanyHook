@@ -9,7 +9,7 @@ With a background in multimedia design and video production, I’ve developed a 
 I'm building solid skills in **Python**, **SQL**, and **Tableau**, and applying visual storytelling techniques to communicate insights effectively.  
 I enjoy automating tasks, optimizing workflows, and transforming raw data into smart decisions.
 
-Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/yourusername)
+Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-monte%C3%B3n-861653123/)
 
 ---
 
