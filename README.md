@@ -58,7 +58,6 @@ Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/yourusername)
   Coursera course covering fundamentals of data analytics.  
   [View Certificate](https://coursera.org/verify/example-cert)
 
-- 🧮 **Excel Skills for Business (Macquarie University)**  
-  Focused on spreadsheet modeling, formulas, and dashboards.  
-  [View Certificate](https://coursera.org/verify/example-cert)
-
+- 🧩 **Scrum Master Certification (Scrum.org)**  
+  Fundamentals of Agile project management, team facilitation, and iterative development.  
+  [View Certificate](https://www.scrum.org/your-scrum-certificate-link)
