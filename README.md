@@ -46,7 +46,7 @@ Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-m
   I work as a data analyst for a food product startup. My mission is to investigate user behavior within the mobile app, explore the sales funnel, and assess the impact of UI font changes through an A/A/B experiment.  
   [View project](https://github.com/DanyHook/A-A-B-Experiment-Analysis-Sales-Funnel-Exploration)
 
-- 🧹 **Data-Driven_Business_Decisions**  
+- 📈 **Data-Driven_Business_Decisions**  
   This project is the final assessment of the Data-Driven Business Decisions module at TripleTen. It simulates the role of a data analyst working with a large online store. Your task is to prioritize revenue-growth 
   hypotheses, run an A/B test, and analyze the results to support strategic decisions.  
   [View project](https://github.com/DanyHook/Data-Driven_Business_Decisions)
@@ -59,9 +59,9 @@ Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-m
   Hands-on program covering Python, SQL, and real-world data projects.  
   [View Certificate](https://tripleten.com/your-certificate-link)
 
-- 🧠 **Foundations: Data, Data, Everywhere (Google)**  
-  Coursera course covering fundamentals of data analytics.  
-  [View Certificate](https://coursera.org/verify/example-cert)
+- 🧠 **Google Prompting Essentials**  
+  Coursera course covering fundamentals of AI prompting.  
+  [View Certificate](https://coursera.org/share/5fe9601aac780227aa4dbc0fb959ca27)
 
 - 🧩 **Scrum Master Certification (Scrum.org)**  
   Fundamentals of Agile project management, team facilitation, and iterative development.  
