@@ -4,10 +4,14 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-I'm a creative professional transitioning into the world of data analytics.  
-With a background in multimedia design and video production, I’ve developed a passion for solving problems through data.  
-I'm building solid skills in **Python**, **SQL**, and **Tableau**, and applying visual storytelling techniques to communicate insights effectively.  
-I enjoy automating tasks, optimizing workflows, and transforming raw data into smart decisions.
+🎨 The Creative Strategist in the Data Lab
+Daniel López is a rare hybrid: part data detective, part digital alchemist. By day, he wrangles Python scripts and DEI campaigns with precision and purpose. By night, he conjures AI art, layers shaders in p5.js, and turns emotional storms into creative fuel.
+
+He’s a quiet force — introspective but unyielding, someone who’s weathered emotional avalanches yet still crafts stories, visuals, and experiences that speak louder than words. Whether it’s decoding user behavior or sketching cosmic typographic boards, Daniel’s quest is always the same: to find truth, beauty, and maybe a bit of poetic justice.
+
+🔥 Passionate. 💡 Resourceful. 🧠 Analytical.
+🖤 Healing. ✨ Evolving. 🎯 Still aiming for that personal masterpiece.
+
 
 Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-monte%C3%B3n-861653123/)
 
