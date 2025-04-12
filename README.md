@@ -65,4 +65,4 @@ Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-m
 
 - 🧩 **Scrum Master Certification (Scrum.org)**  
   Fundamentals of Agile project management, team facilitation, and iterative development.  
-  [View Certificate]([https://www.scrum.org/your-scrum-certificate-link](https://www.scrum-institute.org/badges/42786017319187))
+  [View Certificate](https://www.scrum-institute.org/badges/42786017319187)
