@@ -42,13 +42,14 @@ Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-m
   Interactive dashboard built to visualize marketing KPIs and identify trends across campaigns.  
   [View project](https://github.com/yourusername/marketing-dashboard)
 
-- 📉 **Sales Forecast with Python**  
-  A time series model using Python and Pandas to forecast monthly sales.  
-  [View project](https://github.com/yourusername/sales-forecast-python)
+- 🧪 **A-A-B-Experiment-Analysis-Sales-Funnel-Exploration**  
+  I work as a data analyst for a food product startup. My mission is to investigate user behavior within the mobile app, explore the sales funnel, and assess the impact of UI font changes through an A/A/B experiment.  
+  [View project](https://github.com/DanyHook/A-A-B-Experiment-Analysis-Sales-Funnel-Exploration)
 
-- 🧹 **Data Cleaning Pipeline**  
-  Created a pipeline using Pandas to clean, normalize, and prepare raw datasets for analysis.  
-  [View project](https://github.com/yourusername/data-cleaning-pipeline)
+- 🧹 **Data-Driven_Business_Decisions**  
+  This project is the final assessment of the Data-Driven Business Decisions module at TripleTen. It simulates the role of a data analyst working with a large online store. Your task is to prioritize revenue-growth 
+  hypotheses, run an A/B test, and analyze the results to support strategic decisions.  
+  [View project](https://github.com/DanyHook/Data-Driven_Business_Decisions)
 
 ---
 
@@ -64,4 +65,4 @@ Want to connect? 👉 [LinkedIn](https://www.linkedin.com/in/daniel-l%C3%B3pez-m
 
 - 🧩 **Scrum Master Certification (Scrum.org)**  
   Fundamentals of Agile project management, team facilitation, and iterative development.  
-  [View Certificate](https://www.scrum.org/your-scrum-certificate-link)
+  [View Certificate]([https://www.scrum.org/your-scrum-certificate-link](https://www.scrum-institute.org/badges/42786017319187))
