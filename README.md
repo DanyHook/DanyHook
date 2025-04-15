@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Daniel López — Data Analyst
+# 👋 Hi there, I'm Daniel López
 
 ![Data Analyst Banner](images/imageDA.png)
 
