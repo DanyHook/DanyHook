@@ -1,6 +1,5 @@
 # Hi there, I'm Daniel 👋
 ![Data Analyst Banner](images/imageDA.png)
-Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
